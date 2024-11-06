@@ -8,7 +8,7 @@ $field_email = $_POST['email'];
 
 $field_ticket = $_POST['ticket'];
 
-$mail_to = 'to@email.com';
+$mail_to = 'jyotihospitalityminds@gmail.com';
 
 $subject = 'Message from a site visitor '.$field_first_name;
 
